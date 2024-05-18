@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edwin\\Desktop\\Login\\Examen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{520F9215-2A7D-44D2-ACEB-72B210D1F040}|Examen\\Examen.csproj|c:\\users\\edwin\\desktop\\login\\examen\\examen\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{520F9215-2A7D-44D2-ACEB-72B210D1F040}|Examen\\Examen.csproj|solutionrelative:examen\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520F9215-2A7D-44D2-ACEB-72B210D1F040}|Examen\\Examen.csproj|c:\\users\\edwin\\desktop\\login\\examen\\examen\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520F9215-2A7D-44D2-ACEB-72B210D1F040}|Examen\\Examen.csproj|solutionrelative:examen\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Proveedor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\edwin\\Desktop\\Login\\Examen\\Examen\\Proveedor.cs",
+              "RelativeDocumentMoniker": "Examen\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\edwin\\Desktop\\Login\\Examen\\Examen\\Proveedor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Examen\\Proveedor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:29:04.887Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\edwin\\Desktop\\Login\\Examen\\Examen\\Menu.cs",
+              "RelativeDocumentMoniker": "Examen\\Menu.cs",
+              "ToolTip": "C:\\Users\\edwin\\Desktop\\Login\\Examen\\Examen\\Menu.cs",
+              "RelativeToolTip": "Examen\\Menu.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAhwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:43:11.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
