@@ -17,3 +17,4 @@ C:\Users\edwin\Desktop\Login\Examen\Examen\obj\Debug\net8.0-windows\Examen.genru
 C:\Users\edwin\Desktop\Login\Examen\Examen\obj\Debug\net8.0-windows\ref\Examen.dll
 C:\Users\edwin\Desktop\Login\Examen\Examen\obj\Debug\net8.0-windows\Examen.Inventario.resources
 C:\Users\edwin\Desktop\Login\Examen\Examen\obj\Debug\net8.0-windows\Examen.Proveedor.resources
+C:\Users\edwin\Desktop\Login\Examen\Examen\obj\Debug\net8.0-windows\Examen.sourcelink.json

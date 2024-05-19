@@ -21,5 +21,23 @@ namespace Examen
         {
 
         }
+
+        private void Agregar_Click(object sender, EventArgs e)
+        {
+            var fechaEntrada = FechaEntrada.Text;
+            var fechaFacrtura = FechaFactura.Text;
+            var follo = FolloFactura.Text;
+            var nombreProveedor = NombreProveedor.Text;
+            var articulo = Articulo.Text;
+            var cantidad = Cantidad.Text;
+            var precio = Precio.Text;
+
+            tabla.Rows.Add(fechaEntrada, fechaFacrtura, follo, nombreProveedor, articulo, cantidad, precio);
+        }
+
+        private void Cancelar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
